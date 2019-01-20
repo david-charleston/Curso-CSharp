@@ -1,0 +1,7 @@
+C:\Users\davir\source\repos\Curso-CSharp\ExContrutor2\ExContrutor2\obj\Debug\ExContrutor2.csprojAssemblyReference.cache
+C:\Users\davir\source\repos\Curso-CSharp\ExContrutor2\ExContrutor2\obj\Debug\ExContrutor2.csproj.CoreCompileInputs.cache
+C:\Users\davir\source\repos\Curso-CSharp\ExContrutor2\ExContrutor2\bin\Debug\ExContrutor2.exe.config
+C:\Users\davir\source\repos\Curso-CSharp\ExContrutor2\ExContrutor2\bin\Debug\ExContrutor2.exe
+C:\Users\davir\source\repos\Curso-CSharp\ExContrutor2\ExContrutor2\bin\Debug\ExContrutor2.pdb
+C:\Users\davir\source\repos\Curso-CSharp\ExContrutor2\ExContrutor2\obj\Debug\ExContrutor2.exe
+C:\Users\davir\source\repos\Curso-CSharp\ExContrutor2\ExContrutor2\obj\Debug\ExContrutor2.pdb
